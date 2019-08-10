@@ -2,6 +2,9 @@ This is the tool set that I will use to establish a means of communication with 
 
 Here is an linke of an exemplary readme.md page organization as an example for future necessity while possibly working in git with others... you can use this to organize what the page looks like so when you need to do this in the future, you look more like you have created a readme.md before:
 
+
+<img html="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2019-porsche-gt3-rs-2-1550078224.jpg?crop=0.895xw:1.00xh;0.0566xw,0&resize=640:*"></html>
+
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 its worth noting, you toook some time and forgot how to log into the "github" and send docs there, as you had to use the "push feature" to get terminal to change the document, or even to add the document, i believe you have to commit the doc first
