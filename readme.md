@@ -5,3 +5,8 @@ Here is an linke of an exemplary readme.md page organization as an example for f
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 its worth noting, you toook some time and forgot how to log into the "github" and send docs there, as you had to use the "push feature" to get terminal to change the document, or even to add the document, i believe you have to commit the doc first
+
+
+***The workflow you needed the most help with ultimately, was that you cant create a repository on github from terminal as there isnt a command for that.
+
+  As well, you can't just type push, you have to firstly and rather annoyingly preface each command with "git" as it wont know wtf youre tlaking about if you dont, and secondly, and even more oddly, you have to `git add` or (stage) and then `git commit` 
